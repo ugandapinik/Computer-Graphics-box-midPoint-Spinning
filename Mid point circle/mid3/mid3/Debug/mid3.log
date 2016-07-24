@@ -1,0 +1,22 @@
+﻿Build started 7/1/2015 3:20:08 AM.
+     1>Project "E:\Graphics working area\Mid point circle\mid3\mid3\mid3.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\mid3.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\mid3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         e:\Virtual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mid3.cpp
+         mid3.cpp
+       Link:
+         e:\Virtual studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Graphics working area\Mid point circle\mid3\Debug\mid3.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mid3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Graphics working area\Mid point circle\mid3\Debug\mid3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Graphics working area\Mid point circle\mid3\Debug\mid3.lib" /MACHINE:X86 Debug\mid3.obj
+         mid3.vcxproj -> E:\Graphics working area\Mid point circle\mid3\Debug\mid3.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Graphics working area\Mid point circle\mid3\Debug\mid3.exe;#1" /manifest Debug\mid3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\mid3.unsuccessfulbuild".
+         Touching "Debug\mid3.lastbuildstate".
+     1>Done Building Project "E:\Graphics working area\Mid point circle\mid3\mid3\mid3.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82

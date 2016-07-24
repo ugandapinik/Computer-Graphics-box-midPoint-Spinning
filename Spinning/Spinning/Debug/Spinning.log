@@ -1,0 +1,22 @@
+﻿Build started 8/5/2015 9:55:18 PM.
+     1>Project "E:\Graphics working area\Spinning\Spinning\Spinning.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Spinning.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Spinning.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         e:\Virtual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt spinning.cpp
+         spinning.cpp
+       Link:
+         e:\Virtual studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Graphics working area\Spinning\Debug\Spinning.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Spinning.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Graphics working area\Spinning\Debug\Spinning.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Graphics working area\Spinning\Debug\Spinning.lib" /MACHINE:X86 Debug\spinning.obj
+         Spinning.vcxproj -> E:\Graphics working area\Spinning\Debug\Spinning.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Graphics working area\Spinning\Debug\Spinning.exe;#1" /manifest Debug\Spinning.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Spinning.unsuccessfulbuild".
+         Touching "Debug\Spinning.lastbuildstate".
+     1>Done Building Project "E:\Graphics working area\Spinning\Spinning\Spinning.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.27

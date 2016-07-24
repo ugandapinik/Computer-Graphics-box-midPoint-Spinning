@@ -1,0 +1,17 @@
+﻿Build started 8/4/2015 10:35:15 PM.
+     1>Project "E:\Graphics working area\1. Shape(box, square, watch)\night\night.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\night.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         night.vcxproj -> E:\Graphics working area\1. Shape(box, square, watch)\Debug\night.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\night.unsuccessfulbuild".
+         Touching "Debug\night.lastbuildstate".
+     1>Done Building Project "E:\Graphics working area\1. Shape(box, square, watch)\night\night.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69
